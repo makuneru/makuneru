@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @makuneru
 - 👀 I’m interested in Test Automation.
-- 🌱 I’m currently learning how to create a new Test Automation Framework using Selenium + Maven + Test NG to be integrated in Oracle GAT(
-Global Automation Technology).
 - 💞️ I’m looking to collaborate on my fellow Test Engineers.
 - 📫 You can reach me via email macnel.cayanan@oracle.com
 
