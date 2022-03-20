@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makuneru
 - 👀 I’m interested in Test Automation.
-- 💞️ I’m looking to collaborate on my fellow Test Engineers.
+- 💞️ I’m looking to collaborate on my fellow Automation Engineers.
 - 📫 You can reach me via email macnel.cayanan@oracle.com
 
 <!---
