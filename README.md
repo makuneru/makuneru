@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @makuneru
+- 👋 Hi, I’m Mac
 - 👀 I’m interested in Test Automation.
 - 💞️ I’m looking to collaborate on my fellow Automation Engineers.
 - 📫 You can reach me via email macnelcayanan05@gmail.com
